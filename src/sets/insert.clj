@@ -1,2 +1,3 @@
 (def visitors (atom #{}))
-(visitors conj "Alan")
+; (visitors conj "Alan")
+(println visitors)
